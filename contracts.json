@@ -1,0 +1,55 @@
+[
+  {
+    "department": "运营管理部",
+    "contractNo": "GXGAS-2025-YY-001",
+    "title": "运营部合同",
+    "handler": "张三",
+    "counterparty": "",
+    "signDate": "",
+    "validPeriod": "",
+    "amount": 0,
+    "amountBeforeTax": 0,
+    "isArchived": false,
+    "remarks": ""
+  },
+  {
+    "department": "运营管理部",
+    "contractNo": "GXGAS-2025-YY-002",
+    "title": "二号合同",
+    "handler": "张四",
+    "counterparty": "",
+    "signDate": "",
+    "validPeriod": "",
+    "amount": 0,
+    "amountBeforeTax": 0,
+    "isArchived": false,
+    "remarks": ""
+  },
+  {
+    "department": "运营管理部",
+    "contractNo": "GXGAS-2025-YY-003",
+    "title": "合同",
+    "handler": "",
+    "counterparty": "",
+    "signDate": "",
+    "validPeriod": "",
+    "amount": 0,
+    "amountBeforeTax": 0,
+    "isArchived": false,
+    "remarks": ""
+  },
+  {
+    "department": "财务部",
+    "contractNo": "GXGAS-2025-CW-001",
+    "title": "test",
+    "handler": "",
+    "counterparty": "",
+    "signDate": "",
+    "validPeriod": "",
+    "amount": 0,
+    "amountBeforeTax": 0,
+    "isArchived": false,
+    "remarks": "",
+    "id": null
+  }
+]
